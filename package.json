@@ -4,7 +4,7 @@
   "description": "A discord bot that posts daily Covid-19 staistics. Global and sertain countries.",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.4",
     "canvas": "^2.6.1",
     "dotenv": "^8.2.0",
     "instagram-private-api": "^1.43.3",
