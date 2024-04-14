@@ -8,7 +8,7 @@
     "canvas": "^2.6.1",
     "dotenv": "^8.2.0",
     "instagram-private-api": "^1.43.3",
-    "jimp": "^0.16.1",
+    "jimp": "^0.22.0",
     "socks-proxy-agent": "^5.0.0"
   },
   "devDependencies": {},
