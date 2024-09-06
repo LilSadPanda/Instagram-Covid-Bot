@@ -4,12 +4,12 @@
   "description": "A discord bot that posts daily Covid-19 staistics. Global and sertain countries.",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.8",
     "canvas": "^2.6.1",
     "dotenv": "^8.2.0",
     "instagram-private-api": "^1.43.3",
-    "jimp": "^0.16.1",
-    "socks-proxy-agent": "^5.0.0"
+    "jimp": "^1.0.2",
+    "socks-proxy-agent": "^8.0.4"
   },
   "devDependencies": {},
   "scripts": {
